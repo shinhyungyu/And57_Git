@@ -14,4 +14,8 @@ public class MainActivity extends AppCompatActivity {
     public  void test() {
         //TODO:
     }
+
+    public void testBBB() {
+        // 개발자 bbb
+    }
 }
